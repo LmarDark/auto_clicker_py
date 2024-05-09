@@ -11,6 +11,6 @@
 ## Como rodar o projetos 👣
 
 **<p>- Primeiro faça o clone do repositório (git clone https://github.com/LmarDark/auto_clicker_py);</p>**
-**<p>- Depois execute com "python.exe AutoClicker.py" no terminal;</p>**
+**<p>- Depois execute com "python.exe AutoClicker.py" no terminal.</p>**
 
 ---
