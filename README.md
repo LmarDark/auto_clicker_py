@@ -16,5 +16,3 @@
 **<p>- Depois execute com "python.exe AutoClicker.py" no terminal;</p>**
 
 ---
-
-By: LmarDark
