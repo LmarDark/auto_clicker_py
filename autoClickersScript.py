@@ -1,9 +1,10 @@
 import os
+from time import sleep as s
 
 try:
     import mouse
     import keyboard
-    from time import sleep
+    
 except ImportError:
     _ = os.system('pip install mouse' if os.name == 'nt' else 'pip3 install mouse')
     _ = os.system('pip install keyboard' if os.name == 'nt' else 'pip3 install keyboard')
