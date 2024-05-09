@@ -6,7 +6,7 @@
 
 ## O que é o auto_clicker_py 🤔
 
-#### Um básico projeto de um Auto Clicker feito apenas com python.
+#### - Um básico projeto de um Auto Clicker feito apenas com python.
 
 ## Como rodar o projetos 👣
 
