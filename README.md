@@ -1,7 +1,5 @@
 # auto_clicker_py  📍
 
----
-
 ## Tópicos
   * [O que é o auto_clicker_py?](#o-que-é-o-auto_clicker_py-)
   * [Como rodar o projetos](#como-rodar-o-projetos-)
