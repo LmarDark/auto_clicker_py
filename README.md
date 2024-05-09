@@ -4,7 +4,7 @@
 
 ## Tópicos
   * [O que é o auto_clicker_py?](#o-que-é-o-auto_clicker_py-)
-  * [Como rodar o projetos](#Como-rodar-o-projetos-)
+  * [Como rodar o projetos](#como-rodar-o-projetos-)
 
 ## O que é o auto_clicker_py 🤔
 
