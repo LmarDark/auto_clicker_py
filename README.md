@@ -3,11 +3,8 @@
 ---
 
 ## Tópicos
-  * [O que é o php_register_form?](#o-que-é-o-php_register_form-)
-  * [Primeiros passos](#primeiros-passos-)
-  * [O que foi usado neste repositório?](#o-que-foi-usado-neste-repositório-)
-  * [Exemplificando o código do formulário](#exemplificando-o-código-do-formulário-)
-  * [Como acessar a demo?](#como-acessar-a-demo-%EF%B8%8F)
+  * [O que é o auto_clicker_py?](#o-que-é-o-auto_clicker_py-)
+  * [Como rodar o projetos](#Como-rodar-o-projetos-)
 
 ## O que é o auto_clicker_py 🤔
 
